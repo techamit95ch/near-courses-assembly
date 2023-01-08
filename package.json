@@ -1,0 +1,10 @@
+{
+  "name": "near-dapp-tutorial",
+  "packageManager": "yarn@3.3.1",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  },
+  "dependencies": {
+    "assemblyscript": "^0.26.0"
+  }
+}
