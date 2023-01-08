@@ -5,6 +5,7 @@
     "near-sdk-as": "^3.2.3"
   },
   "dependencies": {
+    "asbuild": "^0.2.0",
     "assemblyscript": "^0.26.0"
   }
 }

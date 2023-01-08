@@ -1249,6 +1249,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "near-dapp-tutorial@workspace:."
   dependencies:
+    asbuild: ^0.2.0
     assemblyscript: ^0.26.0
     near-sdk-as: ^3.2.3
   languageName: unknown

@@ -12,7 +12,6 @@ node_modules/
 # next.js
 /out/
 # production
-/build
 
 # yarn.lock
 package-lock.json
